@@ -1,29 +1,3 @@
-# sketchbook-2
+# sketchbook-2 has been merged back into sketchbook
 
-i learn in this repository, too
-
-hosted version at <https://sketchbook-2.macr.ae/>
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+check it out here: <https://github.com/callumacrae/sketchbook>
